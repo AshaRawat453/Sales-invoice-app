@@ -3,7 +3,7 @@ name = "sales_invoice"
 authors = [
     { name = "asha rawat", email = "ashurwt455@gmail.com"}
 ]
-description = "calculate total amount of price"
+description = "sales_invoice"
 requires-python = ">=3.10"
 readme = "README.md"
 dynamic = ["version"]

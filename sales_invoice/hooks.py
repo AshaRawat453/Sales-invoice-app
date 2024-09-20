@@ -1,7 +1,7 @@
 app_name = "sales_invoice"
-app_title = "sales_invoice"
+app_title = "Sales Invoice"
 app_publisher = "asha rawat"
-app_description = "calculate total amount of price"
+app_description = "sales_invoice"
 app_email = "ashurwt455@gmail.com"
 app_license = "mit"
 # required_apps = []

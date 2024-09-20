@@ -1,6 +1,6 @@
-## sales_invoice
+## Sales Invoice
 
-calculate total amount of price
+sales_invoice
 
 #### License
 
