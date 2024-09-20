@@ -1,6 +1,6 @@
 ## sales_invoice
 
-calcuting product price app
+calculate total amount of price
 
 #### License
 
